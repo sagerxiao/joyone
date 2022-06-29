@@ -1,3 +1,5 @@
+valdfjlajf
+alfjalfk
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
@@ -5,9 +7,13 @@ print("请输入形状类型：","1=正方形；2=长方形；3=三角形；4=�
 option=float(input("您的选项："))
 
 if option == 1:
+afakfdjklaf'
     from shape import square
-    case1=squariie(size=int(input("输入正方形边长（单位cm）:")))
-    case1.sqp();
+afaf
+afaf    case1=squariie(size=int(input("输入正方形边长（单位cm）:")))
+    
+afafa
+afafcase1.sqp();
     case1.sqa();
 
 elif option==2:
@@ -26,6 +32,19 @@ if option == 1:
     case1=square(size=int(input("输入正方形边长（单位cm）:")))
     case1.sqp()
     case1.sqa()
+afafaf
+afafa
+fafa
+fa
+fa
+f
+afa
+f
+a
+fa
+f
+a
+f
 
 elif option==2:
     from shape import rectangle
