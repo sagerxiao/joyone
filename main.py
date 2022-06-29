@@ -1,10 +1,13 @@
-#!/usr/bin/python
+jjjjjjjjj斤斤计较#!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
 print("请输入形状类型：","1=正方形；2=长方形；3=三角形；4=圆形；")
 option=float(input("您的选项："))
 
-if option == 1:
+if option == 1afdjalfal
+afdkjalfkjalfa
+alkjflajf
+jjjjj:
     from shape import square
     case1=square(size=int(input("输入正方形边长（单位cm）:")))
     case1.sqp()
@@ -15,6 +18,19 @@ elif option==2:
     case2=rectangle(length=int(input("输入长方形的长（单位cm）:")),width=int(input("输入长方形的宽（单位cm）:")))
     case2.rtp()
     case2.rta()
+dfakjfakfaf
+
+adflalkfjalf
+
+
+aflafjlajflakjdf
+
+
+adfalfdjalfj
+alfkjalfja
+lajflajfla
+lajflajflajlfjal
+lajflajflaj
 
 elif option==3:
     from shape import rectangle
