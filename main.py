@@ -30,3 +30,5 @@ elif option==4:
 
 else:
     print("你没有输入1-4中正确的选项")
+
+print("Please input number of 1-4")
