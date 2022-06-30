@@ -1,11 +1,11 @@
-var gulp = require('gulp'),
-    $ = require('gulp-load-plugins')(),
-    svn = require("node-svn-ultimate"),
+    svn = require("node-svn-ultimadafjijadfaldfalkfjalte"),
     config = require("./config.json");
-
-/**
  * 清除dist目录
- */
+ */jdlfjalfdjlajdf
+
+daflakjflajf
+adflkjalfja
+alfdjalfj
 gulp.task('clean', function () {
     return gulp.src(["dist", "tmp", "build"], {read: false})
         .pipe($.clean({force: true}));

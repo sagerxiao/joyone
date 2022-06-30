@@ -1,35 +1,36 @@
 kfalkfjalfjla
-alkfjaklfj
-alfkjalfjvaldfjlajf
-alfjalfk
+alfdjalkfj
+adfalkfjaklfj
+alfkajalfjvaldfjlajf
+alfjafalfk
 #!/usr/bin/python
-# -*- coding: UTF-8 -*-
-
-print("请输入形状类型：","1=正方形；2=长方形；3=三角形；4=圆形；")
-option=float(input("您的选项："))
-
-if option == 1:
-afakfdjklaf'
-    from shape import square
-afaf
-afaf    case1=squariie(size=int(input("输入正方形边长（单位cm）:")))
-    
-afafa
-afafcase1.sqp();
-    case1.sqa();
-
-elif option==2:
-    from shape import rectangle
-tfdkjafk
-
-adfah=int(input("输入长方形的宽（单位cm）:")))
-    case2.rtp()
-    case2.rta()
-
-elif option==3:
-    afdafa
-from shape import rectangle
-    case3=rectangle(a=int(input("输入三角形的边长(单位cm）a=:")),b=int(input("输入三角形的边长(单位cm）b=:")),c=int(input("输入三角形的边长(单位cm）c=:")))
+# -*- cfaoding: UTF-8 -*-
+fd
+praint("请输入形状类型：","1=正方形；2=长方形；3=三角形；4=圆形；")
+optdfaion=float(input("您的选项："))
+fd
+ifa option == 1:
+afafakfdjklaf'
+    ffrom shape import square
+afafda
+afaf  f  case1=squariie(size=int(input("输入正方形边长（单位cm）:")))
+    a
+afafafa
+afafcasdfe1.sqp();
+    case1a.sqa();
+f
+eadlif option==2:
+   fa from shape import rectangle
+tfdkjdfafk
+a
+adfdfah=int(input("输入长方形的宽（单位cm）:")))
+   ad case2.rtp()
+    cfaase2.rta()
+fd
+elaif option==3:
+   f afdafa
+froma shape import rectangle
+    cfase3=rectangle(a=int(input("输入三角形的边长(单位cm）a=:")),b=int(input("输入三角形的边长(单位cm）b=:")),c=int(input("输入三角形的边长(单位cm）c=:")))
     case3.trp()
     case3.tra()
 if option == 1:
