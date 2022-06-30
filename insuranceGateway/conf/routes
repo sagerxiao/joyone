@@ -1,10 +1,10 @@
-# Routes
-# This file defines all application routes (Higher priority routes first)
-# ~~~~
-
-
-GET         /version                                    Application.version
-
-POST        /api/pingan/requests                        OrderController.savePinganTask
-POST        /outer/{from}/request                       OrderController.saveTask
-GET         /orders                                     OrderController.listOrdersBy
+fadf# Routes
+# Thais file defines all application routes (Higher priority routes first)
+# ~~~dfa~
+df
+ad
+GEfaT         /version                                    Application.version
+df
+POadfST        /api/pingan/requests                        OrderController.savePinganTask
+POST ad       /outer/{from}/request                       OrderController.saveTask
+GET    fadfa     /orders                                     OrderController.listOrdersBy
