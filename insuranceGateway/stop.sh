@@ -1,7 +1,13 @@
 play stop
-rm -fr server.pid
-lkaflafka
 
-alfjaldjf
-aldfkjal
-aldkfj
+rm -fr server.pid
+
+
+alfjalfj
+
+adflajkfla
+aldfkjalfjaf
+
+afdlakjdfklajfl
+aldfjalfalf
+afdkalfjaldfka
