@@ -1,0 +1,10 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+
+GET         /version                                    Application.version
+
+POST        /api/pingan/requests                        OrderController.savePinganTask
+POST        /outer/{from}/request                       OrderController.saveTask
+GET         /orders                                     OrderController.listOrdersBy

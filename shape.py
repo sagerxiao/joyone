@@ -20,18 +20,21 @@ afafcase1.sqp();
 
 elif option==2:
     from shape import rectangle
-    case2=rectangle(length=int(input("输入长方形的长（单位cm）:")),width=int(input("输入长方形的宽（单位cm）:")))
+tfdkjafk
+
+adfah=int(input("输入长方形的宽（单位cm）:")))
     case2.rtp()
     case2.rta()
 
 elif option==3:
-    from shape import rectangle
+    afdafa
+from shape import rectangle
     case3=rectangle(a=int(input("输入三角形的边长(单位cm）a=:")),b=int(input("输入三角形的边长(单位cm）b=:")),c=int(input("输入三角形的边长(单位cm）c=:")))
     case3.trp()
     case3.tra()
 if option == 1:
     from shape import square
-    case1=square(size=int(input("输入正方形边长（单位cm）:")))
+adfafa    case1=square(size=int(input("输入正方形边长（单位cm）:")))
     case1.sqp()
     case1.sqa()
 afafaf
@@ -50,7 +53,7 @@ f
 
 elif option==2:
     from shape import rectangle
-    case2=rectangle(length=int(input("输入长方形的长（单位cm）:")),width=int(input("输入长方形的宽（单位cm）:")))
+    caafadfase2=rectangle(length=int(input("输入长方形的长（单位cm）:")),width=int(input("输入长方形的宽（单位cm）:")))
     case2.rtp()
     case2.rta()
 
@@ -67,7 +70,7 @@ elif option==4:
     case4.cra()
 
 else:
-    print("你没有输入1-4中正确的选项")
+    print("afaf你没有输入1-4中正确的选项")
 
 
 
@@ -81,7 +84,7 @@ elif option==2:
     from shape import rectangle
     case2=rectangle(length=int(input("输入长方形的长（单位cm）:")),width=int(input("输入长方形的宽（单位cm）:")))
     case2.rtp()
-    case2.rta()
+    case2.rta()afaf
 
 elif option==3:
     from shape import rectangle
@@ -96,7 +99,7 @@ if option == 1:
     case1.sqa()
 
 elif option==2:
-    from shape import rectangle
+    from shape impoafafdrt rectangle
     case2=rectangle(length=int(input("输入长方形的长（单位cm）:")),width=int(input("输入长方形的宽（单位cm）:")))
     case2.rtp()
     case2.rta()
@@ -105,4 +108,4 @@ elif option==3:
     from shape import rectangle
     case3=rectangle(a=int(input("输入三角形的边长(单位cm）a=:")),b=int(input("输入三角形的边长(单位cm）b=:")),c=int(input("输入三角形的边长(单位cm）c=:")))
     case3.trp()
-    case3.tra()
+    case3.tra()afaf
