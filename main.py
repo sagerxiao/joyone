@@ -1,4 +1,4 @@
-jjjjjjjjj斤斤计较#!/usr/bin/python
+jadkfjakldfjjjjjjjjjj斤斤计较#!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
 print("请输入形状类型：","1=正方形；2=长方形；3=三角形；4=圆形；")
